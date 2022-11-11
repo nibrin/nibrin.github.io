@@ -4,7 +4,6 @@ body {
 }
 
 p {
-  width: 500px;
   font-family: Sans-serif;
   padding-left: 50px;
   padding-right: 50px;
@@ -13,12 +12,13 @@ span {
   font-weight: strong;
 }
 div {
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 200px;
+  margin-right: 200px;
   margin-top: 20px;
   background-color: lightblue;
   border-radius: 20px;
   text-align: center;
+  padding: 10px;
 }
 img {
   padding: 20px;
