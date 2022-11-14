@@ -23,12 +23,11 @@ div {
 }
 
 div:hover {
-  color: blue;
+  color: azure;
   border-radius: 20px;
-  border: 4px dashed blue;
-  text-decoration: underline;
-  margin-left: 200px;
-  margin-right: 200px;
+  border: 4px dashed azure;
+  margin-left: 150px;
+  margin-right: 150px;
   margin-top: 20px;
   background-color: lightblue;
   border-radius: 20px;
