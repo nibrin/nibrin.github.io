@@ -38,3 +38,8 @@ img {
   padding: 20px;
   width: 60%;
 }
+
+a {
+  color: black;
+  text-decoration: none;
+}
