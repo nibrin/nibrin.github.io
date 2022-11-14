@@ -27,6 +27,13 @@ div:hover {
   border-radius: 20px;
   border: 4px dashed blue;
   text-decoration: underline;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 20px;
+  background-color: lightblue;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
 }
 img {
   padding: 20px;
