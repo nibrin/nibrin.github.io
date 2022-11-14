@@ -1,6 +1,6 @@
 body {
   background: url("/bg.jpg");
-  background-size: 10%;
+  background-size: 5%;
 }
 
 p {
@@ -11,10 +11,7 @@ p {
 span {
   font-weight: bold;
 }
-span:hover {
-  color: blue;
-  border: 10px dashed blue;
-}
+
 div {
   margin-left: 200px;
   margin-right: 200px;
@@ -23,6 +20,13 @@ div {
   border-radius: 20px;
   text-align: center;
   padding: 10px;
+}
+
+div:hover {
+  color: blue;
+  border-radius: 20px;
+  border: 4px dashed blue;
+  text-decoration: underline;
 }
 img {
   padding: 20px;
