@@ -9,7 +9,11 @@ p {
   padding-right: 50px;
 }
 span {
-  font-weight: strong;
+  font-weight: bold;
+}
+span:hover {
+  color: blue;
+  border: 10px dashed blue;
 }
 div {
   margin-left: 200px;
